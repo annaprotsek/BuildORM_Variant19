@@ -1,0 +1,7 @@
+build/
+out/
+.vs/
+vcpkg_installed/
+*.db
+*.db-journal
+CMakeUserPresets.json
